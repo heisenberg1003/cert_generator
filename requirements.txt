@@ -158,7 +158,7 @@ tornado==5.1.1
 traitlets==4.3.2
 tzlocal==1.5.1
 unoconv==0.8.2
-urllib3==1.24
+urllib3==1.26.5
 urwid==2.0.1
 virtualenv==16.5.0
 wafw00f==0.9.5
